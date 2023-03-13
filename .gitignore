@@ -10,6 +10,7 @@ __pycache__/
 .Python
 build/
 nnenv/
+attenv/
 develop-eggs/
 dist/
 downloads/
